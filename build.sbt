@@ -1,5 +1,7 @@
 val akkaVersion = "2.5.0"
 
+enablePlugins(JavaAppPackaging)
+
 name := """remote-bar"""
 
 version := "1.0"
